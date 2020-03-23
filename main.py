@@ -1,0 +1,5 @@
+print("benvenuto nella tab")
+n=int(input())
+k=int(input())
+print(n*k)
+print("ciao")
